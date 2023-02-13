@@ -16,3 +16,5 @@ Stanford Class of Computer Vision
 ## Solutions of the assignment
 
 [Solutions](https://github.com/mantasu/cs231n)
+
+[Solutions 2 (Chinese)](https://github.com/yjb6/CS231n-2022)
