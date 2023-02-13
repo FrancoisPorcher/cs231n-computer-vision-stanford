@@ -1,4 +1,4 @@
-# CS231N-Computer-Vision
+# cs231n - Stanford - Computer Vision
 Stanford Class of Computer Vision
 
 ## Task List
