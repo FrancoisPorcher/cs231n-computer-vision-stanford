@@ -8,8 +8,8 @@ Stanford Class of Computer Vision
 ### Module 1 Neural Networks
 - [x] Video Lecture 1: Image Classification
 - [x] Lecture 1
-- [ ] Video Lecture 2: Linear Classification
-- [ ] Lecture 2
+- [x] Video Lecture 2: Linear Classification
+- [x] Lecture 2
 - [ ] Video Lecture 3: Optimization
 - [ ] Lecture 3
 - [ ] Video Lecture 4: Backpropagation
