@@ -1,6 +1,15 @@
 # CS231N-Computer-Vision
 Stanford Class of Computer Vision
 
+## Task List
+
+- [x] Video Lecture 1
+- [x] Lecture 1
+- [] Video Lecture 2
+- [] Lecture 2
+- [] Video Lecture 3
+- [] Lecture 3
+
 ## Links to the video classes
 
 [Youtube Classes](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
