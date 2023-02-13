@@ -1,6 +1,9 @@
 # cs231n - Stanford - Computer Vision
 Stanford Class of Computer Vision
 
+## Tips
+- You should read the classes first before the youtube video because otherwise you get lazy. The pdf files are much more exhaustive than the videos so focus on that.
+
 ## Task List
 ### Module 1 Neural Networks
 - [x] Video Lecture 1: Image Classification
