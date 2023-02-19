@@ -10,10 +10,10 @@ Stanford Class of Computer Vision
 - [x] Lecture 1
 - [x] Video Lecture 2: Linear Classification
 - [x] Lecture 2
-- [ ] Video Lecture 3: Optimization
-- [ ] Lecture 3
-- [ ] Video Lecture 4: Backpropagation
-- [ ] Lecture 4
+- [x] Video Lecture 3: Optimization
+- [x] Lecture 3
+- [x] Video Lecture 4: Backpropagation
+- [x] Lecture 4
 - [ ] Video Lecture 5: NN Part1
 - [ ] Lecture 5
 - [ ] Video Lecture 6: NN Part2
@@ -24,6 +24,11 @@ Stanford Class of Computer Vision
 - [ ] Lecture 8
 
 ### Module 2 Convolutional Neural Networks
+
+### Assignments:
+- [ ] Assignment 1
+- [ ] Assignment 2
+- [ ] Assignment 3
 
 
 ## Links to the video classes
