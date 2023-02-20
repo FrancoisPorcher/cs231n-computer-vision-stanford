@@ -15,9 +15,9 @@ Stanford Class of Computer Vision
 - [x] Video Lecture 4: Backpropagation
 - [x] Lecture 4
 - [ ] Video Lecture 5: NN Part1
-- [ ] Lecture 5
+- [x] Lecture 5
 - [ ] Video Lecture 6: NN Part2
-- [ ] Lecture 6
+- [x] Lecture 6
 - [ ] Video Lecture 7: NN Part3
 - [ ] Lecture 7
 - [ ] Video Lecture 8: Minimal Neural Network Study
