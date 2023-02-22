@@ -6,22 +6,10 @@ Stanford Class of Computer Vision
 
 ## Task List
 ### Module 1 Neural Networks
-- [x] Video Lecture 1: Image Classification
-- [x] Lecture 1
-- [x] Video Lecture 2: Linear Classification
-- [x] Lecture 2
-- [x] Video Lecture 3: Optimization
-- [x] Lecture 3
-- [x] Video Lecture 4: Backpropagation
-- [x] Lecture 4
-- [ ] Video Lecture 5: NN Part1
-- [x] Lecture 5
-- [ ] Video Lecture 6: NN Part2
-- [x] Lecture 6
-- [ ] Video Lecture 7: NN Part3
-- [ ] Lecture 7
-- [ ] Video Lecture 8: Minimal Neural Network Study
-- [ ] Lecture 8
+- [ ] Do the case studies in penultimate class
+- [ ] Do the very last class
+- [ ] Do the assignments and watch the class videos
+- [ ] You are fucking done!
 
 ### Module 2 Convolutional Neural Networks
 
