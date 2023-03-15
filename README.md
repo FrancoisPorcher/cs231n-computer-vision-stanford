@@ -3,6 +3,7 @@ Stanford Class of Computer Vision
 
 ## Tips
 - You should read the classes first before the youtube video because otherwise you get lazy. The pdf files are much more exhaustive than the videos so focus on that.
+- Update: I am done with that, let's watch the classes
 
 ## Task List
 ### Module 1 Neural Networks
