@@ -1,23 +1,11 @@
 # cs231n - Stanford - Computer Vision
 Stanford Class of Computer Vision
 
-## Tips
-- You should read the classes first before the youtube video because otherwise you get lazy. The pdf files are much more exhaustive than the videos so focus on that.
-- Update: I am done with that, let's watch the classes
+These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vision Class.
 
-## Task List
-### Module 1 Neural Networks
-- [ ] Do the case studies in penultimate class
-- [ ] Do the very last class
-- [ ] Do the assignments and watch the class videos
-- [ ] You are fucking done!
+I will be uploading the rest of the assignments along the way.
 
-### Module 2 Convolutional Neural Networks
 
-### Assignments:
-- [ ] Assignment 1
-- [ ] Assignment 2
-- [ ] Assignment 3
 
 
 ## Links to the video classes
