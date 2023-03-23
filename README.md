@@ -13,7 +13,15 @@ These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vis
 I will be uploading the rest of the assignments along the way.
 
 
+## Highlights of this class
 
+Here are the highlights of this class for me:
+
+- Saliency Map
+
+- Fooling a Neural Network with gradient ascent
+
+- Gradient Ascent, Deep Dream
 
 ## Links to the video classes
 
