@@ -19,9 +19,25 @@ Here are the highlights of this class for me:
 
 - Saliency Map
 
+<p align="center">
+ <img src="saliency.png" width="60%" height="60%">
+</p> 
+
 - Fooling a Neural Network with gradient ascent
 
+<p align="center">
+ <img src="gradient_ascent.png" width="60%" height="60%">
+</p> 
+
 - Gradient Ascent, Deep Dream
+
+<p align="center">
+ <img src="deepdream1.png" width="60%" height="60%">
+</p> 
+
+<p align="center">
+ <img src="deepdream2.png" width="60%" height="60%">
+</p> 
 
 ## Links to the video classes
 
