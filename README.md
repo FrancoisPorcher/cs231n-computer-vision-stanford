@@ -17,7 +17,9 @@ This is a (non-exhaustive) summary of the content of the CS231N class (2023).
 
 These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vision Class.
 
-
+<p align="center">
+ <img src="CheatSheet CS231N.png" width="60%" height="60%">
+</p> 
 
 ## Highlights of this class
 
