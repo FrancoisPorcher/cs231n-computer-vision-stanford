@@ -7,7 +7,7 @@
 - Transformers, Attention
 - Hardware and Algorithmics for Modern Deep Learning
 - Reinforcement Learning
-- Self Supervised Learning
+- Self-Supervised Learning
 
 These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vision Class.
 
