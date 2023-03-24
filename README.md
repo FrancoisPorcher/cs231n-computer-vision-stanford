@@ -16,7 +16,7 @@ This is a (non-exhaustive) summary of the content of the CS231N class (2023).
 - Self-Supervised Learning
 
 
-These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vision Class.
+These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vision Class. (I will upload the assignments soon).
 
 <p align="center">
  <img src="CheatSheet CS231N.png" width="60%" height="60%">
