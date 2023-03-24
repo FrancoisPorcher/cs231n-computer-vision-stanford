@@ -1,12 +1,13 @@
 # C231n - Stanford - Computer Vision
 
 ## Content of this class
-- SVM, Softmax, Regulatization
-- Deep Learning
+- SVM, Softmax, Regularization
 - CNN
-- Generative Models
+- Generative Models, GANs
+- Transformers, Attention
 - Hardware and Algorithmics for Modern Deep Learning
 - Reinforcement Learning
+- Self Supervised Learning
 
 These are my assignments and lecture notes from Fei-Fei Li's famous Computer Vision Class.
 
